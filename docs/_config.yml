@@ -29,6 +29,7 @@ github_username: korzhuck
 theme: minima
 
 plugins:
+  - github-pages
   - jekyll-feed
   - jekyll-remote-theme
 
