@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Convertime Privacy Policy"
-permalink: /convertime/privacy-policy/
+permalink: /privacy-policy/
 ---
 Convertime mobile application (the “Application”) together with the content, tools, transactions and other services available by using the App (collectively, the “Service”) is owned and maintained by Hanna Chebotarova (“we” or “us” or “our”). We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the information you provide consistently with applicable privacy and data protection laws and the terms of this Privacy Policy.
 
