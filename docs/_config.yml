@@ -29,9 +29,7 @@ github_username: korzhuck
 theme: minima
 
 plugins:
-  - github-pages
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
